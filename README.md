@@ -1,4 +1,4 @@
-The **Ryno Engine** is a toy game engine I developed during university to learn C++ and graphics programming.
+The **Ryno Engine** is a toy game engine I developed during university to learn C++ and graphics programming.<br>
 Looking back at it, it is a very naive project, but it has great sentimental value :) 
 
 A trailer showcasing the features of the engine: https://www.youtube.com/watch?v=dnq0vhDVh8U<br>
